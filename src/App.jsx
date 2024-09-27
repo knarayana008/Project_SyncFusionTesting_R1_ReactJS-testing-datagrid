@@ -1,7 +1,7 @@
 import {
   ColumnDirective,
   ColumnsDirective,
-  GridComponent,
+  GridComponent, 
 } from "@syncfusion/ej2-react-grids";
 import React,{useEffect} from "react";
 import UnyDataGrid from "./UnyDataGrid";
